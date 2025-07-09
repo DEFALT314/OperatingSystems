@@ -1,9 +1,0 @@
-{
-    "makefile.launchConfigurations": [
-        {
-            "cwd": "/home/defalt/Studia/SysOpy/lab3",
-            "binaryPath": "/home/defalt/Studia/SysOpy/lab3/flipper",
-            "binaryArgs": []
-        }
-    ]
-}
