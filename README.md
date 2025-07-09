@@ -32,4 +32,5 @@ cd operating-systems
 cd lab5 && make # compiles Lab 5 only
 
 # Run an executable (path may differ per lab)
-./build/lab5/main```
+./build/lab5/main
+```
